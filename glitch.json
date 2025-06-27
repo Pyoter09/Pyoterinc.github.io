@@ -1,0 +1,4 @@
+{
+  "install": "echo 'No idfjd'",
+  "start": "bash lamp-start.sh"
+}
